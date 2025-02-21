@@ -54,7 +54,7 @@ print(numbers.count(1))
 print(numbers.index(3))
 
 a,b,c=colors
-print(c)
+print(b)
 
 
 
