@@ -1,4 +1,5 @@
 import random
+import time
 choice_list =["가위","바위","보"]
 user_choice = ""
 computer_choice =""
@@ -18,7 +19,8 @@ while True:
 
 
     computer_choice =random.choice(choice_list)
-
+    print("과연 승부는........")
+    time.sleep(2)
     if user_choice == computer_choice:
         print("무승부 입니다")
 

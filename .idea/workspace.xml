@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31cb53a9-6ef6-491d-99b2-983786937f94" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/서윤아_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/서윤아_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/서윤아_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/서윤아_가위바위보 게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/서윤아_숫자 맞추기게임.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/서윤아_가위바위보 게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/서윤아_가위바위보 게임.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +124,17 @@
       <updated>1739444587205</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
