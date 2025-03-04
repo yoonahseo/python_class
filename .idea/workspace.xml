@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31cb53a9-6ef6-491d-99b2-983786937f94" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/서윤아-04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_가위바위보 게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_숫자 맞추기게임.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/서윤아-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/서윤아-03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +42,19 @@
     "Python.서윤아-01.executor": "Run",
     "Python.서윤아-03.executor": "Run",
     "Python.서윤아-04.executor": "Run",
+    "Python.서윤아_05.executor": "Run",
+    "Python.서윤아_06.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/파이썬",
+    "last_opened_file_path": "D:/파이셩",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\파이셩" />
       <recent name="D:\파이썬" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
