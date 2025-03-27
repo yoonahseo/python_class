@@ -9,6 +9,8 @@
 #     print('고등학생')
 # else:
 #     print('성인')
+from ctypes import HRESULT
+
 num = 0
 
 # if num %2 == 0:
@@ -46,21 +48,21 @@ num = 0
 #         print("num은 3의 배수가 아닙니다")
 # else:
 #         print("num은 3의 배수입니다")
-n = int(input("정수를 입력하세요"))
+# n = int(input("정수를 입력하세요"))
 
 # if n %5 == 0 or n %5 !=0:
 #     print("n은 5의 배수가 아닙니다")
 # else:
 #     print("n은 5의 배수입니다")
 
-car_nu =(input(["차량번호:"]))
+car_nu = input("차량번호:")
+num = int(car_nu[-1])
 
-if {car_nu[-1] %2} == 0:
-    {result("오늘 운행이 가능합니다")}
+if num % 2 == 0:
+    print("오늘 운행이 가능합니다")
 else:
-    {result("오늘 운행이 불가능합니다")}
-    print(format.car_nu, {car_nu[-1] %2} == 0 ("{}"),
-    print(format.car_nu, {car_nu[-1] %2} == 1 ("{}")))
+    print("오늘 운행이 불가능합니다")
+
 
 
 

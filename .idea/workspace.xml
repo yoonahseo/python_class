@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31cb53a9-6ef6-491d-99b2-983786937f94" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/day13/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/mypackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/mypackage/math_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/mypackage/string_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo_list/todo_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word_study/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word_study/mypackage/review/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word_study/mypackage/study/study.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_23 (1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_day-02-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_day09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_day11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_day12-1py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_day12-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_day14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_day15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_day24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_미니프로젝트2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/서윤아_022.py" beforeDir="false" afterPath="$PROJECT_DIR$/서윤아_022.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,28 +53,39 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.chae.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
     &quot;Python.서윤아-01.executor&quot;: &quot;Run&quot;,
     &quot;Python.서윤아-03.executor&quot;: &quot;Run&quot;,
     &quot;Python.서윤아-04.executor&quot;: &quot;Run&quot;,
     &quot;Python.서윤아_022.executor&quot;: &quot;Run&quot;,
     &quot;Python.서윤아_05.executor&quot;: &quot;Run&quot;,
     &quot;Python.서윤아_06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.서윤아_day09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.서윤아_day12-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.서윤아_day12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.서윤아_day14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.서윤아_day15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.서윤아_day24.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/파이셩&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/파이셩/word_study/mypackage/study&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\파이셩\word_study\mypackage\study" />
       <recent name="D:\파이셩" />
       <recent name="D:\파이썬" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\파이셩\chae" />
+      <recent name="D:\파이셩\word_study\mypackage\study" />
+      <recent name="D:\파이셩\word_study\mypackage" />
+      <recent name="D:\파이셩\word_study" />
+      <recent name="D:\파이셩" />
+      <recent name="D:\파이셩\day13" />
     </key>
   </component>
   <component name="RunManager">
@@ -93,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="D:\파이셩\day13\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,16 +167,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
