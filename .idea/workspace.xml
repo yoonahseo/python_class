@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31cb53a9-6ef6-491d-99b2-983786937f94" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/서윤아-16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서윤아_17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/서윤아_day15.py" beforeDir="false" afterPath="$PROJECT_DIR$/서윤아_day15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,7 @@
     "Python.서윤아_022.executor": "Run",
     "Python.서윤아_05.executor": "Run",
     "Python.서윤아_06.executor": "Run",
+    "Python.서윤아_17.executor": "Run",
     "Python.서윤아_day09.executor": "Run",
     "Python.서윤아_day12-2.executor": "Run",
     "Python.서윤아_day12.executor": "Run",
